@@ -1,0 +1,8 @@
+name: coffee_shop
+profile: all
+config-version: 2
+version: "1.0.0"
+
+models:
+   coffee_shop:
+      +materialized: table
